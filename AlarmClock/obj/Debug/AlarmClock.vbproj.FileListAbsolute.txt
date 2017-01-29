@@ -1,0 +1,25 @@
+C:\Users\Seth\AppData\Local\Temporary Projects\AlarmClock\bin\Debug\AlarmClock.exe.config
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\AlarmClock.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\SriClocks.dll
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Form1.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Resources.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\obj\Debug\AlarmClock.vbproj.GenerateResource.Cache
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\obj\Debug\AlarmClock.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\LEDdisplay.dll
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\LEDdisplay.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\LEDdisplay.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\obj\Debug\AlarmClock.frmSettings.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\sounds\sharpbeep.wav
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\sounds\beepbeep.wav
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\sounds\glass_ping.wav
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\sounds\Loud_Alarm_Clock_Buzzer.wav
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\sounds\most_annoying_sound_ever.wav
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.manifest
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\bin\Debug\AlarmClock.application
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe.manifest
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week5 - MidTerm\b\AlarmClock\AlarmClock\obj\Debug\AlarmClock.application
